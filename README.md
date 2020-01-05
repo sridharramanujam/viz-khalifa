@@ -1,11 +1,10 @@
 # Viz Khalifa
-For our Data Visualization final project, myself, @jacqui-ngo, and @sridhar decided to use visualizations 
-and a predictive model to examine our own music tastes and create a playlist all of us would enjoy.
+As first-quarter MSBA students at UC Davis, myself, @jacqui-ngo, and @sridhar decided that for our Data Visualization final project we wanted to use visualizations and a predictive model to examine our own music tastes and create a playlist all of us would enjoy.
 
-We got the data through the Spotify API - shoutout Spotify for allowing this kind of access. 
+We got the data through the Spotify API (shoutout Spotify for allowing this kind of access!!)
 
 This repository contains the Python code used to get the data, develop the model, and do some visualizations. 
-It also includes the Tableau workbooks we created for some visualizations. 
+You can also check out my Tableau profile (rebecca.driever) to see the interactive dashboard we created.
 
 Feel free to download everything and create a playlist for you and your friends!
 
