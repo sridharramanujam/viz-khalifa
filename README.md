@@ -1,4 +1,4 @@
-# viz-khalifa
+# Viz Khalifa
 For our Data Visualization final project, myself, @jacqui-ngo, and @sridhar decided to use visualizations 
 and a predictive model to examine our own music tastes and create a playlist all of us would enjoy.
 
