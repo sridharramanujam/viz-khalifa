@@ -14,4 +14,4 @@ Feel free to download everything and create a playlist for you and your friends!
 
 See the video below that we created and submitted as our final work product:
 
-[![Viz Khalifa](https://img.youtube.com/vi/LwtY5U5H3q0/0.jpg)](https://www.youtube.com/watch?v=LwtY5U5H3q0 "Viz Khalifa")
+[![Viz Khalifa (Abridged)](https://img.youtube.com/vi/LwtY5U5H3q0/0.jpg)](https://www.youtube.com/watch?v=g241mBIMDOQ "Viz Khalifa (Abridged))
