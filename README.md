@@ -1,5 +1,5 @@
 # Viz Khalifa
-As first-quarter MSBA students at UC Davis, @beccadriever, @ngojacqueleine, and Sridhar decided that for our Data Visualization final project we wanted to use visualizations and a predictive model to examine our own music tastes and create a playlist all of us would enjoy.
+As first-quarter MSBA students at UC Davis, @beccadriever, @ngojacqueleine, and @sridharramanujam decided that for our Data Visualization final project we wanted to use visualizations and a predictive model to examine our own music tastes and create a playlist all of us would enjoy.
 
 We got the data through the Spotify API (shoutout Spotify for allowing this kind of access!!)
 
